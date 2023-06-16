@@ -2,7 +2,7 @@
 IR_Tool is for IR team or infosec team to collecting basic system information within their endpoint environment. The script is based on batch command and sysinternal tools.
 
 ## Usage
-Run the collect.bat as administrator permission and all the information will be collect under the logs folder 
+Run the collect.bat as **administrator permission** and all the information will be collect under the logs folder 
 
 ## Lists
 Here are the inforamtion which the script will collect
